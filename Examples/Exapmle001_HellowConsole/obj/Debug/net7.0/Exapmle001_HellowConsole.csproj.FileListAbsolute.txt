@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\bin\Debug\net7.0\Exapmle001_HellowConsole.exe
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\bin\Debug\net7.0\Exapmle001_HellowConsole.deps.json
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\bin\Debug\net7.0\Exapmle001_HellowConsole.runtimeconfig.json
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\bin\Debug\net7.0\Exapmle001_HellowConsole.dll
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\bin\Debug\net7.0\Exapmle001_HellowConsole.pdb
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\Exapmle001_HellowConsole.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\Exapmle001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\Exapmle001_HellowConsole.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\Exapmle001_HellowConsole.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\Exapmle001_HellowConsole.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\Exapmle001_HellowConsole.dll
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\refint\Exapmle001_HellowConsole.dll
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\Exapmle001_HellowConsole.pdb
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\Exapmle001_HellowConsole.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Рабочий стол\C#\Examples\Exapmle001_HellowConsole\obj\Debug\net7.0\ref\Exapmle001_HellowConsole.dll
